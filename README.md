@@ -1,4 +1,4 @@
-# Data-Structure_and_algorithm-Game_collection
+# Data Structure and Algorithm Game Collection
 
 - EightQueensPuzzle
 - Knights Tour Game
